@@ -1,4 +1,3 @@
-commit 4
-conflict 1
+feature2
 
 
